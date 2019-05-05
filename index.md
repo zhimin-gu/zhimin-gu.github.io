@@ -1,8 +1,8 @@
-##This is GZM's space
+## This is GZM's space
 
-###General Information
+### General Information
 
-###Working Experience
+### Working Experience
 
 * **Software Development Manager**
 
@@ -11,4 +11,7 @@
 * **Site Reliability Engineering Manager**
 
 ### Education
+
+#### Shanghai University
+
 
